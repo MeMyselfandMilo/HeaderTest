@@ -1,1 +1,9 @@
-body
+body {
+  color: red;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
